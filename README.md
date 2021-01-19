@@ -56,3 +56,12 @@ https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-a
 
 See youtube if needed :)
 https://youtu.be/pDOvdyOfg7A
+
+
+# Installation of ec2
+
+1. Install PuTTy for ssh purpose
+1. Spin up ec2 instance (use ubuntu image)
+1. ssh into ec2 instance and use it as a linux laptop
+1. Follow the tutorial above
+

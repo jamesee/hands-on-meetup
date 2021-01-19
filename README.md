@@ -20,7 +20,7 @@ click the link and download git on your computer.
 https://git-scm.com/download/win
 
 
-## 2. Intall Python3
+## 2. Install Python3
 
 See the installation guide
 

@@ -1,6 +1,6 @@
 # Hands-On Meetup
 
-
+![Diagram](images/image.png)
 
 
 
@@ -34,7 +34,7 @@ see installation guide
 https://learn.hashicorp.com/tutorials/terraform/install-cli
 
 
-## Install Ansible
+## 4. Install Ansible
 
 Once you have your python3 installed, make sure you have pip. Using pip to install Ansible is the easiest
 
@@ -42,7 +42,7 @@ Installing Ansible with pip
 
 https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installing-ansible-with-pip
 
-## Install aws-cli on Windows
+## 5. Install aws-cli on Windows
 
 See the installation guide
 
@@ -50,7 +50,7 @@ See the installation guide
 https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html#cliv2-windows-install
 
 
-## Setup a free AWS account
+## 6. Setup a free AWS account
 
 https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
 

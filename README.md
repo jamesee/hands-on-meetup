@@ -60,8 +60,15 @@ https://youtu.be/pDOvdyOfg7A
 
 # Installation of ec2
 
-1. Install PuTTy for ssh purpose
+1. Install PuTTY for ssh purpose
 1. Spin up ec2 instance (use ubuntu image)
 1. ssh into ec2 instance and use it as a linux laptop
 1. Follow the tutorial above
 
+## Install PuTTY
+
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+
+ssh using PuTTY with ssh-key:
+https://devops.ionos.com/tutorials/use-ssh-keys-with-putty-on-windows/

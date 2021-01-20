@@ -47,7 +47,7 @@ https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.ht
 See the installation guide
 
 
-https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html#cliv2-windows-install
+https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html
 
 
 ## 6. Setup a free AWS account

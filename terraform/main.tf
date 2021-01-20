@@ -59,7 +59,7 @@ module "ec2_cluster" {
   instance_type          = "t2.micro"
   monitoring             = true
 # key_name               = aws_key_pair.example.id
-  key_name               = "imvcs-demo"
+  key_name               = "ansible"
   vpc_security_group_ids = [aws_security_group.examplesg.id]
 
   subnet_id              = "subnet-1b5d8853"
